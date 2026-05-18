@@ -1,3 +1,6 @@
+# script to pull quality control metrics from long-read sequencing data (aligned bams)
+# originally written by Chris Clarkson for LaFlamme et al., 2026
+
 import pysam
 import re
 import math
